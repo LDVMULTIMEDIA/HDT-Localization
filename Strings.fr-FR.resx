@@ -3355,7 +3355,7 @@
     <value>Connectez-vous pour démarrer.</value>
   </data>
   <data name="Options_Streaming_TwitchExt_Label_TwitchAccount" xml:space="preserve">
-    <value>Lions maintenant votre compte Twitch à HSReplay.net.</value>
+    <value>Lier maintenant votre compte Twitch à HSReplay.net.</value>
   </data>
   <data name="Options_Streaming_TwitchExt_TwitchAccount" xml:space="preserve">
     <value>Compte Twitch :</value>
@@ -3379,7 +3379,7 @@
     <value>Fermer dans la zone de notification</value>
   </data>
   <data name="Enum_HsActionType_None" xml:space="preserve">
-    <value>None</value>
+    <value>Vide</value>
   </data>
   <data name="Enum_HsActionType_Flash" xml:space="preserve">
     <value>Flash</value>
@@ -3388,9 +3388,9 @@
     <value>Popup</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_TurnStart" xml:space="preserve">
-    <value>On turn start:</value>
+    <value>Au début du tour:</value>
   </data>
   <data name="Options_Tracker_Notifications_Label_FriendlyChallenge" xml:space="preserve">
-    <value>On friendly challenge:</value>
+    <value>En défis amicale:</value>
   </data>
 </root>
